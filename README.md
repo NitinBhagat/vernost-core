@@ -1,0 +1,2 @@
+# vernost-core
+Core Application
